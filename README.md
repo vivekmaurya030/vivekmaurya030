@@ -1,16 +1,25 @@
-<h1 align="center">Vivek Maurya</h1>
-<h3 align="center">Full Stack Developer | MCA Graduate</h3>
+<h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
+
+<!-- Typing Effect Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1C8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;MCA+Graduate;Backend+Architecture+Enthusiast;Passionate+Problem+Solver" />
+</p>
 
 ---
 
-## Profile Overview  
-Full Stack Developer with a strong foundation in **React.js, Node.js, FastAPI, and SQL**. I focus on building scalable, efficient, and maintainable applications. Passionate about backend architecture, API development, and delivering real-world solutions through clean engineering practices.
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekmaurya030&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vivekmaurya030?label=Followers&style=flat&color=green" />
+  <img src="https://img.shields.io/github/stars/vivekmaurya030?label=Stars&style=flat&color=yellow" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" />
+</p>
 
 ---
 
 ## 🔧 Technical Overview (Icon Stack)
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,materialui" />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
@@ -22,8 +31,13 @@ Full Stack Developer with a strong foundation in **React.js, Node.js, FastAPI, a
 
 ---
 
+## 🧑‍💻 Profile Overview  
+Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with a strong interest in backend architecture and scalable system design. Experienced in building real-world applications with clean engineering practices and modular code structures.
 
-## Education  
+---
+
+## 🎓 Education  
+
 - **MCA – Galgotias College of Engineering & Technology (2023–2025)**  
   Score: 70.49%
 
@@ -35,75 +49,84 @@ Full Stack Developer with a strong foundation in **React.js, Node.js, FastAPI, a
 
 ---
 
-## Technical Skills  
+## 🛠 Technical Skills  
 
-**Programming Languages:** JavaScript, Python  
+**Languages:** JavaScript, Python  
 **Frontend:** React.js, Redux, HTML, CSS, Material UI  
 **Backend:** FastAPI, Node.js, Express.js  
 **Databases:** MySQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, Postman, Netlify, Render, Cloudinary  
-**Soft Skills:** Leadership, Collaboration, Problem Solving, Creativity  
+**Tools:** Git, GitHub, Postman, Netlify, Render, Cloudinary  
+**Soft Skills:** Leadership, Problem Solving, Creativity  
 
 ---
 
-## Experience  
+# 📦 Projects (Expandable Sections)
 
-### Software Engineer Intern — Sharajman Technologies Pvt. Ltd.  
-**May 2025 – June 2025 | Connaught Place, Delhi**
+<details>
+<summary><strong>🔹 Zentry – Task Management System (Backend)</strong></summary>
 
-- Built a secure and scalable **Task Management System** using FastAPI, SQLAlchemy, and MySQL.  
-- Implemented JWT authentication & RBAC for secure user access.  
-- Developed REST APIs with clean architecture and error handling.  
-- Recognized with a **Spot Award** for exceptional performance.
+**Tech:** FastAPI, SQLAlchemy, MySQL  
+**Features:**  
+- JWT Authentication  
+- Role-Based Access Control  
+- Modular API structure  
+- Schema-based validation  
 
----
-
-## Projects  
-
-### 🔹 Zentry – Task Management System (Backend)  
-Backend system built with **FastAPI + SQLAlchemy + MySQL**.  
-Includes JWT auth, RBAC, modular API structure, and optimized database design.  
-➡ **GitHub Repo:** github.com/vivekmaurya030/zentry-backend  
+🔗 **GitHub Repo:** https://github.com/vivekmaurya030/zentry-backend  
+</details>
 
 ---
 
-### 🔹 Ayaka’s Recipe – AI-Based Recipe Generator  
-Ingredient-based & AI-powered recipe generator with scraping + ML integration.  
-- Frontend: React.js  
-- Backend: Node.js  
-➡ **GitHub Repo:** github.com/vivekmaurya030/ayaka-recipe  
+<details>
+<summary><strong>🔹 Ayaka's Recipe – AI-Based Recipe Generator</strong></summary>
+
+**Tech:** React.js, Node.js, Web Scraping, ML Integration  
+**Features:**  
+- Ingredient-based recipe search  
+- AI-powered custom recipes  
+- Data scraping engine  
+
+🔗 **GitHub Repo:** https://github.com/vivekmaurya030/ayaka-recipe  
+</details>
 
 ---
 
-### 🔹 Billor – SaaS Portfolio Builder  
-Full-stack SaaS platform with interactive portfolio templates.  
-Features: real-time customization, media uploads, Cloudinary integration.  
-➡ **GitHub Repo:** github.com/vivekmaurya030/billor  
+<details>
+<summary><strong>🔹 Billor – SaaS Portfolio Builder</strong></summary>
+
+**Tech:** React.js, Node.js, MongoDB  
+**Features:**  
+- Template customization  
+- Cloudinary for media  
+- Pagination, filtering, sorting  
+
+🔗 **GitHub Repo:** https://github.com/vivekmaurya030/billor  
+</details>
 
 ---
 
-## Achievements  
-- **Spot Award – Sharajman Technologies Pvt. Ltd.**  
-  For delivering high-quality solutions during internship.
+## 🏆 Achievements  
+
+- 🥇 **Spot Award – Sharajman Technologies Pvt. Ltd.**  
+- 🎖 NCC “C” Certificate – Leadership, Discipline, Teamwork  
 
 ---
 
-## Additional Activities  
-- Led development of a SaaS-based cleaning service management platform.  
-- NCC “C” Certificate holder demonstrating discipline & leadership.
-
----
-
-## GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vivekmaurya030&show_icons=true&theme=default" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekmaurya030&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekmaurya030&theme=minimal" />
+</p>
+
 ---
 
-## Contact  
-**Email:** vivekmaurya2030@gmail.com  
-**LinkedIn:** linkedin.com/in/vivek-maurya-536140267  
-**GitHub:** github.com/vivekmaurya030
+## 📫 Contact  
+📧 Email: **vivekmaurya2030@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/vivek-maurya-536140267**  
+🧑‍💻 GitHub: **github.com/vivekmaurya030**
+

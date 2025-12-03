@@ -51,14 +51,12 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
               <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">JavaScript · Python</p>
             </div>
           </div>
-
           <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           </div>
         </div>
       </td>
-
       <!-- Card: Frontend -->
       <td align="center" valign="top" width="320">
         <div style="
@@ -79,7 +77,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
               <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">React · Redux · Material UI</p>
             </div>
           </div>
-
           <div style="display:flex;flex-direction:column;gap:6px;margin-top:6px;">
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
             <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -88,7 +85,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
         </div>
       </td>
     </tr>
-
     <tr>
       <!-- Card: Backend -->
       <td align="center" valign="top">
@@ -110,7 +106,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
               <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">FastAPI · Node.js · Express</p>
             </div>
           </div>
-
           <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
             <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
@@ -118,7 +113,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
           </div>
         </div>
       </td>
-
       <!-- Card: Databases & Tools -->
       <td align="center" valign="top">
         <div style="
@@ -139,7 +133,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
               <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">MySQL · MongoDB · Git · Netlify · Render · Cloudinary</p>
             </div>
           </div>
-
           <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -151,7 +144,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
         </div>
       </td>
     </tr>
-
     <tr>
       <!-- Card: Soft Skills -->
       <td align="center" valign="top" colspan="2">
@@ -174,7 +166,6 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
               <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">Leadership · Problem Solving · Creativity · Team Collaboration</p>
             </div>
           </div>
-
           <div style="display:flex;gap:10px;flex-wrap:wrap;">
             <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge" alt="leadership" />
             <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge" alt="problem" />

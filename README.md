@@ -112,7 +112,7 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 - AI-powered custom recipe generation using trained ML models
 - Full-stack architecture combining data processing and user interface
 
-🔗 **GitHub:** [vivekmaurya030/ayaka-recipe](https://github.com/vivekmaurya030/ayaka-recipe)
+🔗 **GitHub:** [Frontend(https://github.com/vivekmaurya030/Ayakas_frontend)]
 
 ---
 
@@ -123,7 +123,7 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 - Cloudinary integration for media storage and optimization
 - Advanced search, filtering, and pagination capabilities
 
-🔗 **GitHub:** [vivekmaurya030/billor](https://github.com/vivekmaurya030/billor)
+🔗 **Live:** [Billor](https://billor.netlify.app/)
 
 ---
 

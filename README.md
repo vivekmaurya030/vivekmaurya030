@@ -2,7 +2,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0078FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;Backend+Architecture+Enthusiast;MCA+Graduate;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0078FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;MCA+Graduate;Problem+Solver" />
 </p>
 
 ---
@@ -24,6 +24,27 @@
 
 ## 🧑‍💻 Profile Overview  
 Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with strong backend architecture skills and hands-on experience building scalable real-world applications.
+
+---
+# 🔧 Technical Overview (Animated Icon Stack)
+
+<!-- Floating Icons Animation -->
+<style>
+.icons:hover img {
+  transform: translateY(-10px);
+  transition: 0.3s ease-in-out;
+}
+</style>
+
+<p align="center" class="icons">
+  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,materialui&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,render&theme=light" />
+</p>
 
 ---
 

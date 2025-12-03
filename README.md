@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
+[<h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
 
 <!-- Typing Effect Banner -->
 <p align="center">
@@ -13,20 +13,6 @@
   <img src="https://img.shields.io/github/followers/vivekmaurya030?label=Followers&style=flat&color=green" />
   <img src="https://img.shields.io/github/stars/vivekmaurya030?label=Stars&style=flat&color=yellow" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" />
-</p>
-
----
-
-## 🔧 Technical Overview (Icon Stack)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,materialui" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,render" />
 </p>
 
 ---
@@ -60,7 +46,7 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 
 ---
 
-# 📦 Projects (Expandable Sections)
+# 📦 Projects
 
 <details>
 <summary><strong>🔹 Zentry – Task Management System (Backend)</strong></summary>
@@ -112,21 +98,9 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vivekmaurya030&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekmaurya030&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekmaurya030&theme=minimal" />
-</p>
-
----
-
 ## 📫 Contact  
 📧 Email: **vivekmaurya2030@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/vivek-maurya-536140267**  
 🧑‍💻 GitHub: **github.com/vivekmaurya030**
 
+](https://github.com/vivekmaurya030)

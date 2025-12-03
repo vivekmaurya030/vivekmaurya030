@@ -101,7 +101,7 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 - Modular API architecture with clean separation of concerns
 - Schema-based validation and scalable database design
 
-🔗 **GitHub:** [vivekmaurya030/zentry-backend](https://github.com/vivekmaurya030/zentry-backend)
+🔗 **GitHub:** [vivekmaurya030/zentry-backend](https://github.com/vivekmaurya030/zentry_backend)
 
 ---
 

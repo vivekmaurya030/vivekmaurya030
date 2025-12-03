@@ -1,106 +1,105 @@
-[<h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
+<h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
 
-<!-- Typing Effect Banner -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1C8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;MCA+Graduate;Backend+Architecture+Enthusiast;Passionate+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0078FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;Backend+Architecture+Enthusiast;MCA+Graduate;Problem+Solver" />
 </p>
 
 ---
 
-<!-- Badges -->
+<!-- Light/Dark Mode Aware Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekmaurya030&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vivekmaurya030?label=Followers&style=flat&color=green" />
-  <img src="https://img.shields.io/github/stars/vivekmaurya030?label=Stars&style=flat&color=yellow" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge&color=blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge&color=brightgreen" />
+    <img src="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge" />
+  </picture>
+
+  <img src="https://img.shields.io/github/followers/vivekmaurya030?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/stars/vivekmaurya030?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+# 🔧 Technical Overview (Animated Icon Stack)
+
+<!-- Floating Icons Animation -->
+<style>
+.icons:hover img {
+  transform: translateY(-10px);
+  transition: 0.3s ease-in-out;
+}
+</style>
+
+<p align="center" class="icons">
+  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,materialui&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,render&theme=light" />
 </p>
 
 ---
 
 ## 🧑‍💻 Profile Overview  
-Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with a strong interest in backend architecture and scalable system design. Experienced in building real-world applications with clean engineering practices and modular code structures.
+Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with strong backend architecture skills and hands-on experience building scalable real-world applications.
 
 ---
 
-## 🎓 Education  
-
-- **MCA – Galgotias College of Engineering & Technology (2023–2025)**  
-  Score: 70.49%
-
-- **BCA – Deen Dayal Upadhyaya University (2020–2023)**  
-  Score: 71.93%
-
-- **Intermediate – Naval’s National Academy (2018–2020)**  
-  Score: 80%
-
----
-
-## 🛠 Technical Skills  
-
-**Languages:** JavaScript, Python  
-**Frontend:** React.js, Redux, HTML, CSS, Material UI  
-**Backend:** FastAPI, Node.js, Express.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, Netlify, Render, Cloudinary  
-**Soft Skills:** Leadership, Problem Solving, Creativity  
-
----
-
-# 📦 Projects
+# 📦 Projects (Collapsible + Animated)
 
 <details>
 <summary><strong>🔹 Zentry – Task Management System (Backend)</strong></summary>
+<br>
 
-**Tech:** FastAPI, SQLAlchemy, MySQL  
-**Features:**  
-- JWT Authentication  
-- Role-Based Access Control  
-- Modular API structure  
-- Schema-based validation  
+✨ **Tech:** FastAPI, SQLAlchemy, MySQL  
+✨ JWT Authentication + RBAC  
+✨ Modular API Architecture  
+✨ Database Normalization  
 
-🔗 **GitHub Repo:** https://github.com/vivekmaurya030/zentry-backend  
+🔗 **Repo:** https://github.com/vivekmaurya030/zentry-backend  
 </details>
 
 ---
 
 <details>
 <summary><strong>🔹 Ayaka's Recipe – AI-Based Recipe Generator</strong></summary>
+<br>
 
-**Tech:** React.js, Node.js, Web Scraping, ML Integration  
-**Features:**  
-- Ingredient-based recipe search  
-- AI-powered custom recipes  
-- Data scraping engine  
+✨ **Tech:** React.js, Node.js, Web Scraping  
+✨ AI-powered recipe creator  
+✨ Scraper + ML integration  
+✨ Ingredient-based smart suggestions  
 
-🔗 **GitHub Repo:** https://github.com/vivekmaurya030/ayaka-recipe  
+🔗 **Repo:** https://github.com/vivekmaurya030/ayaka-recipe  
 </details>
 
 ---
 
 <details>
 <summary><strong>🔹 Billor – SaaS Portfolio Builder</strong></summary>
+<br>
 
-**Tech:** React.js, Node.js, MongoDB  
-**Features:**  
-- Template customization  
-- Cloudinary for media  
-- Pagination, filtering, sorting  
+✨ **Tech:** MERN Stack  
+✨ Real-time template customization  
+✨ Cloudinary integration  
+✨ Pagination + Sorting + Search  
 
-🔗 **GitHub Repo:** https://github.com/vivekmaurya030/billor  
+🔗 **Repo:** https://github.com/vivekmaurya030/billor  
 </details>
 
 ---
 
-## 🏆 Achievements  
-
+# 🏆 Achievements  
 - 🥇 **Spot Award – Sharajman Technologies Pvt. Ltd.**  
-- 🎖 NCC “C” Certificate – Leadership, Discipline, Teamwork  
+- 🎖 NCC “C” Certificate  
 
 ---
 
-## 📫 Contact  
+# 📬 Contact  
 📧 Email: **vivekmaurya2030@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/vivek-maurya-536140267**  
 🧑‍💻 GitHub: **github.com/vivekmaurya030**
-
-](https://github.com/vivekmaurya030)

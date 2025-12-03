@@ -140,7 +140,7 @@ Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, w
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:vivekmaurya2030@gmail.com">vivekmaurya2030@gmail.com</a><br>
-  🔗 <strong>LinkedIn:</strong> <a href="(https://www.linkedin.com/in/vivekmaurya030/)" target="_blank">https://www.linkedin.com/in/vivekmaurya030</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vivekmaurya030" target="_blank">https://www.linkedin.com/in/vivekmaurya030</a><br>
   🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/vivekmaurya030" target="_blank">github.com/vivekmaurya030</a>
 </p>
 

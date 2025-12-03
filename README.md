@@ -1,237 +1,151 @@
 <h1 align="center">Hi 👋, I'm Vivek Maurya</h1>
+<h3 align="center">Full Stack Developer | MCA Graduate</h3>
 
-<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0078FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;MCA+Graduate;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0078FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FastAPI+%7C+Node.js+%7C+React.js;Backend+Architecture+Enthusiast;MCA+Graduate;Problem+Solver" />
 </p>
 
 ---
 
-<!-- Light/Dark Mode Aware Badges -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge&color=blue" />
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge&color=brightgreen" />
-    <img src="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge" />
-  </picture>
-
-  <img src="https://img.shields.io/github/followers/vivekmaurya030?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/stars/vivekmaurya030?style=for-the-badge&color=orange" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vivekmaurya030&style=for-the-badge&color=blue" alt="Profile Views">
+  <!-- <img src="https://img.shields.io/github/followers/vivekmaurya030?style=for-the-badge&color=yellow" alt="Followers"> -->
+  <!-- <img src="https://img.shields.io/github/stars/vivekmaurya030?style=for-the-badge&color=orange" alt="Stars"> -->
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
 ---
 
-## 🧑‍💻 Profile Overview  
-Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with strong backend architecture skills and hands-on experience building scalable real-world applications.
+## 🧑‍💻 Profile Overview
+
+Full Stack Developer skilled in **React.js, Node.js, FastAPI, SQL & MongoDB**, with a strong interest in backend architecture and scalable system design. Experienced in building real-world applications with clean engineering practices and modular code structures.
 
 ---
-## 🛠 Technical Skills (Glassmorphism Card Style)
 
-<p align="center">
-  <table role="presentation" cellspacing="16" cellpadding="0" style="border-collapse:collapse;">
-    <tr>
-      <!-- Card: Languages -->
-      <td align="center" valign="top" width="320">
-        <div style="
-          width:300px;
-          padding:18px;
-          border-radius:14px;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid rgba(255,255,255,0.08);
-          box-shadow: 0 6px 18px rgba(2,6,23,0.35);
-          backdrop-filter: blur(6px);
-          -webkit-backdrop-filter: blur(6px);
-          text-align:left;
-          ">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
-            <img src="https://skillicons.dev/icons?i=js,python" width="46" alt="languages" />
-            <div>
-              <h3 style="margin:0;font-size:18px;">Languages</h3>
-              <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">JavaScript · Python</p>
-            </div>
-          </div>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          </div>
-        </div>
-      </td>
-      <!-- Card: Frontend -->
-      <td align="center" valign="top" width="320">
-        <div style="
-          width:300px;
-          padding:18px;
-          border-radius:14px;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid rgba(255,255,255,0.08);
-          box-shadow: 0 6px 18px rgba(2,6,23,0.35);
-          backdrop-filter: blur(6px);
-          -webkit-backdrop-filter: blur(6px);
-          text-align:left;
-          ">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
-            <img src="https://skillicons.dev/icons?i=react,redux,html,css,materialui" width="46" alt="frontend" />
-            <div>
-              <h3 style="margin:0;font-size:18px;">Frontend</h3>
-              <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">React · Redux · Material UI</p>
-            </div>
-          </div>
-          <div style="display:flex;flex-direction:column;gap:6px;margin-top:6px;">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-            <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <!-- Card: Backend -->
-      <td align="center" valign="top">
-        <div style="
-          width:300px;
-          padding:18px;
-          border-radius:14px;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid rgba(255,255,255,0.08);
-          box-shadow: 0 6px 18px rgba(2,6,23,0.35);
-          backdrop-filter: blur(6px);
-          -webkit-backdrop-filter: blur(6px);
-          text-align:left;
-          ">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
-            <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" width="46" alt="backend" />
-            <div>
-              <h3 style="margin:0;font-size:18px;">Backend</h3>
-              <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">FastAPI · Node.js · Express</p>
-            </div>
-          </div>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-            <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-          </div>
-        </div>
-      </td>
-      <!-- Card: Databases & Tools -->
-      <td align="center" valign="top">
-        <div style="
-          width:300px;
-          padding:18px;
-          border-radius:14px;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid rgba(255,255,255,0.08);
-          box-shadow: 0 6px 18px rgba(2,6,23,0.35);
-          backdrop-filter: blur(6px);
-          -webkit-backdrop-filter: blur(6px);
-          text-align:left;
-          ">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" width="46" alt="db-tools" />
-            <div>
-              <h3 style="margin:0;font-size:18px;">Databases & Tools</h3>
-              <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">MySQL · MongoDB · Git · Netlify · Render · Cloudinary</p>
-            </div>
-          </div>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
-            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-            <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-            <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-            <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <!-- Card: Soft Skills -->
-      <td align="center" valign="top" colspan="2">
-        <div style="
-          width:640px;
-          padding:18px;
-          border-radius:14px;
-          background: rgba(255,255,255,0.04);
-          border: 1px solid rgba(255,255,255,0.06);
-          box-shadow: 0 6px 18px rgba(2,6,23,0.30);
-          backdrop-filter: blur(4px);
-          -webkit-backdrop-filter: blur(4px);
-          text-align:left;
-          margin-top:6px;
-          ">
-          <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
-            <img src="https://skillicons.dev/icons?i=figma" width="40" alt="softskills" />
-            <div>
-              <h3 style="margin:0;font-size:18px;">Soft Skills</h3>
-              <p style="margin:2px 0 0;color:rgba(255,255,255,0.75);font-size:13px;">Leadership · Problem Solving · Creativity · Team Collaboration</p>
-            </div>
-          </div>
-          <div style="display:flex;gap:10px;flex-wrap:wrap;">
-            <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge" alt="leadership" />
-            <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge" alt="problem" />
-            <img src="https://img.shields.io/badge/Creativity-00BFFF?style=for-the-badge" alt="creative" />
-            <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" alt="collab" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+## 🎓 Education
+
+- **MCA – Galgotias College of Engineering & Technology (2023–2025)** — 70.49%
+- **BCA – Deen Dayal Upadhyaya University (2020–2023)** — 71.93%
+- **Intermediate – Naval's National Academy (2018–2020)** — 80%
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
+</p>
+
+### Soft Skills
+<p>
+  <img src="https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge" alt="Leadership">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Creativity-00BFFF?style=for-the-badge" alt="Creativity">
+  <img src="https://img.shields.io/badge/Collaboration-32CD32?style=for-the-badge" alt="Collaboration">
+</p>
 
 ---
 
-# 📦 Projects
+## 💼 Experience
 
-<details>
-<summary><strong>🔹 Zentry – Task Management System (Backend)</strong></summary>
-<br>
+### Software Engineer Intern — Sharajman Technologies Pvt. Ltd.
+**May 2025 – June 2025 | Connaught Place, Delhi**
 
-✨ **Tech:** FastAPI, SQLAlchemy, MySQL  
-✨ JWT Authentication + RBAC  
-✨ Modular API Architecture  
-✨ Database Normalization  
-
-🔗 **Repo:** https://github.com/vivekmaurya030/zentry-backend  
-</details>
+- Developed a secure **Task Management System** using FastAPI, SQLAlchemy, and MySQL
+- Implemented JWT authentication & role-based access control for enhanced security
+- Built structured REST APIs with optimized error handling and data workflows
+- Received the **Spot Award** for exceptional engineering performance
 
 ---
 
-<details>
-<summary><strong>🔹 Ayaka's Recipe – AI-Based Recipe Generator</strong></summary>
-<br>
+## 📦 Projects
 
-✨ **Tech:** React.js, Node.js, Web Scraping  
-✨ AI-powered recipe creator  
-✨ Scraper + ML integration  
-✨ Ingredient-based smart suggestions  
+### 🔹 Zentry – Task Management System
+**Tech Stack:** FastAPI, SQLAlchemy, MySQL  
+**Features:**
+- JWT Authentication & Role-Based Access Control
+- Modular API architecture with clean separation of concerns
+- Schema-based validation and scalable database design
 
-🔗 **Repo:** https://github.com/vivekmaurya030/ayaka-recipe  
-</details>
-
----
-
-<details>
-<summary><strong>🔹 Billor – SaaS Portfolio Builder</strong></summary>
-<br>
-
-✨ **Tech:** MERN Stack  
-✨ Real-time template customization  
-✨ Cloudinary integration  
-✨ Pagination + Sorting + Search  
-
-🔗 **Repo:** https://github.com/vivekmaurya030/billor  
-</details>
+🔗 **GitHub:** [vivekmaurya030/zentry-backend](https://github.com/vivekmaurya030/zentry-backend)
 
 ---
 
-# 🏆 Achievements  
-- 🥇 **Spot Award – Sharajman Technologies Pvt. Ltd.**  
-- 🎖 NCC “C” Certificate  
+### 🔹 Ayaka's Recipe – AI-Based Recipe Generator
+**Tech Stack:** React.js, Node.js, Web Scraping, ML Integration  
+**Features:**
+- Ingredient-based recipe discovery using intelligent web scraping
+- AI-powered custom recipe generation using trained ML models
+- Full-stack architecture combining data processing and user interface
+
+🔗 **GitHub:** [vivekmaurya030/ayaka-recipe](https://github.com/vivekmaurya030/ayaka-recipe)
 
 ---
 
-# 📬 Contact  
-📧 Email: **vivekmaurya030@gmail.com**  
-🔗 LinkedIn: **(https://www.linkedin.com/in/vivekmaurya030/)**  
-🧑‍💻 GitHub: **github.com/vivekmaurya030**
+### 🔹 Billor – SaaS Portfolio Builder
+**Tech Stack:** React.js, Node.js, MongoDB  
+**Features:**
+- Real-time template customization and preview
+- Cloudinary integration for media storage and optimization
+- Advanced search, filtering, and pagination capabilities
+
+🔗 **GitHub:** [vivekmaurya030/billor](https://github.com/vivekmaurya030/billor)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Spot Award** – Sharajman Technologies Pvt. Ltd. for outstanding contribution and performance during internship
+- 🎖 **NCC "C" Certificate** – Demonstrating discipline, leadership, and teamwork
+
+---
+
+
+
+## 📬 Contact
+
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:vivekmaurya2030@gmail.com">vivekmaurya2030@gmail.com</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="(https://www.linkedin.com/in/vivekmaurya030/)" target="_blank">https://www.linkedin.com/in/vivekmaurya030</a><br>
+  🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/vivekmaurya030" target="_blank">github.com/vivekmaurya030</a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!</i>
+</p>
